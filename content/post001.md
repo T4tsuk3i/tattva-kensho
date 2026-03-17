@@ -18,8 +18,8 @@ Times tables.
 
 Before I explain anything — just watch this for 30 seconds.
 
-<video autoplay loop muted playsinline style="width:100%;border-radius:12px;margin:1.5rem 0;">
-  <source src="https://res.cloudinary.com/dtvcepqec/image/upload/v1773732718/output_mhvfnu.gif" type="video/mp4">
+<video autoplay loop muted playsinline controls style="width:100%;border-radius:12px;margin:1.5rem 0;">
+  <source src="https://res.cloudinary.com/dtvcepqec/video/upload/fl_progressive,fl_loop/v1773761429/post_001_times-table-circle_hero_cwwmbe.mp4" type="video/mp4">
 </video>
 
 _That is the ×2, ×3, ×4, and ×5 times tables. Drawing._
