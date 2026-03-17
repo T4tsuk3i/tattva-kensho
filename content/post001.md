@@ -12,6 +12,8 @@ I stared at it for a while. Then I went back and checked what made it.
 
 Times tables.
 
+The ones you memorized in class. The ones everyone memorizes and forgets the moment the exam is over. The ones nobody ever told you were drawing things.
+
 ---
 
 ## Watch This First
@@ -19,7 +21,7 @@ Times tables.
 Before I explain anything — just watch this for 30 seconds.
 
 <video autoplay loop muted playsinline controls style="width:100%;border-radius:12px;margin:1.5rem 0;">
-  <source src="https://res.cloudinary.com/dtvcepqec/video/upload/fl_progressive,fl_loop/v1773761429/post_001_times-table-circle_hero_cwwmbe.mp4" type="video/mp4">
+  <source src="https://res.cloudinary.com/dtvcepqec/video/upload/v1773761429/post_001_times-table-circle_hero_cwwmbe.mp4" type="video/mp4">
 </video>
 
 _That is the ×2, ×3, ×4, and ×5 times tables. Drawing._
@@ -70,9 +72,31 @@ Imagine you're drawing the first few lines. Point 1 to point 2 — short line, t
 
 It's the same thing that happens when you drop a handful of matchsticks on a table. No single matchstick is trying to point anywhere — but after enough of them, a pattern appears. The cardioid is that pattern for the ×2 rule.
 
-And it doesn't stop there.
+---
 
-The ×3 times table makes a shape with two loops. The ×4 makes three loops. The ×5 makes four. Each times table has its own signature shape — always has. We just never looked.
+## Why Does Each Times Table Make a Different Shape?
+
+This is the part that really got me. It's not random. There's a rule underneath the rule.
+
+The ×2 table makes a cardioid — one loop. The ×3 table makes a nephroid — two loops. The ×4 makes three loops. The ×5 makes four.
+
+The pattern is: **the ×n table always makes n−1 loops.**
+
+But why?
+
+Think about what the ×2 rule actually does to the circle. It takes every point and sends it to a location that is exactly twice as far around the circle. Points near the top stay near the top. Points near the bottom get sent to the opposite side. The whole circle gets "stretched" by a factor of 2, but because it wraps around, some of that stretch folds back on itself — and the fold is exactly where the cusp of the heart shape sits.
+
+The ×3 rule stretches by a factor of 3. It wraps around twice before it closes. That creates two folds, two cusps, two loops — a nephroid.
+
+The ×4 rule stretches by 4, wraps three times, makes three cusps.
+
+Each times table is essentially a different way of folding the circle back on itself. The number of times it folds is exactly n−1. And each fold produces one loop in the final shape.
+
+Here's another way to see it. Pick any point on the cardioid — the ×2 shape. Draw a tangent line at that point (a line that just touches the curve without crossing it). That tangent line is exactly one of the chords you drew. Every single line in your diagram is tangent to the cardioid. The shape isn't something you drew — it's the boundary that all your lines agree on.
+
+Mathematicians call this an **envelope** — a curve defined not by drawing it directly, but by the family of lines that surround it. The cardioid is the envelope of the ×2 chord family. The nephroid is the envelope of the ×3 family. And so on, forever.
+
+You can go as far as you want. The ×10 table makes 9 loops. The ×100 table makes 99. The rule never breaks.
 
 ---
 
@@ -84,9 +108,9 @@ We spend years treating times tables like the most boring part of school. Pure m
 
 And it's not just art.
 
-The cardioid turns up in places you wouldn't expect. That bright curved patch of light inside a coffee cup? Mathematicians call it a caustic — a shape formed by light bouncing off curved walls, and a close cousin of the cardioid. Microphone designers use a mathematically perfect cardioid-shaped pickup pattern so the mic hears sound from in front and ignores noise from behind — that one is the real deal, exact to the geometry. And in F1, the study of how these curves describe the "curl" of air coming off a wing is fundamental to how engineers model turbulence between cars.
+The cardioid turns up in places you wouldn't expect. That bright curved patch of light inside a coffee cup when the sun hits it? Mathematicians call it a caustic — a shape formed by light bouncing off curved walls, and a close cousin of the cardioid. Microphone designers use a mathematically perfect cardioid-shaped pickup pattern so the mic hears sound from in front and ignores noise from behind — that one is exact to the geometry. In F1, the study of how these curves describe the curl of air coming off a wing is fundamental to how engineers model the turbulence between cars. And in cardiac medicine, the shape of the pressure wave inside a healthy human heart ventricle traces — yes — a cardioid. The word was never just a coincidence.
 
-None of those engineers were thinking about times tables. But the same family of shapes runs underneath all of it.
+None of those people were thinking about times tables. But the same family of shapes runs underneath all of it.
 
 Simple rules. Extraordinary outcomes. That's not a coincidence. That's what mathematics actually is.
 
@@ -96,6 +120,12 @@ Simple rules. Extraordinary outcomes. That's not a coincidence. That's what math
 
 You don't need software. You need a printed circle, a pencil, and about 20 minutes.
 
+Here's exactly what the process looks like — step by step:
+
+<video autoplay loop muted playsinline controls style="width:100%;border-radius:12px;margin:1.5rem 0;">
+  <source src="https://res.cloudinary.com/dtvcepqec/video/upload/v1773763721/post_001_try_yourself_qhw5hn.mp4" type="video/mp4">
+</video>
+
 Draw a circle. Mark 36 evenly spaced points around it — one every 10 degrees works perfectly with a standard protractor. Number them 0 to 35.
 
 Pick the ×2 table. For each point, multiply its number by 2. If the result is more than 35, subtract 36 — that's the wrapping. Point 20 × 2 = 40, subtract 36, connect to point 4. Point 19 × 2 = 38, subtract 36, connect to point 2.
@@ -104,13 +134,17 @@ Draw a line from each original point to its result. Do that for all 36 points.
 
 Step back and look at what you drew.
 
+Then try the ×3 table on a fresh circle. Count the loops.
+
 ---
 
-_I found this completely by accident. And then I couldn't stop thinking about it — that something this beautiful had been sitting inside a school exercise this whole time, invisible, waiting._
+_I still think about the moment I found this. Not because of the mathematics — though the mathematics is beautiful. But because of what it means that it was there the whole time._
 
-_That's the whole point of this blog. The ordinary stuff, looked at carefully, turns out to be extraordinary. Every time._
+_Every times table you ever wrote down in a notebook was quietly drawing something. Nobody told you. The curriculum moved on. The shapes just waited._
 
-_See you next month._
+_That's what this blog is about. The things that were always there, just waiting for someone to look._
+
+_— Keep noticing._
 
 ---
 
