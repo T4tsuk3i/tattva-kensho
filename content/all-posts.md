@@ -21,4 +21,4 @@ The ×2 times table draws a heart. The ×3 draws a kidney. Nobody told us. We ju
 
 _More coming. Check back next month._
 
-_— Keep noticing._
+_— Keep noticing..._
