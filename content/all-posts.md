@@ -3,17 +3,22 @@ title: All Posts
 date: 2026-03-10
 ---
 
-*Every journey starts with a single step. Here's where mine are logged.*
+_Every journey starts with a single step. Here's where mine are logged._
 
-Nothing here yet — but the first post is coming soon.
-
-Each month, one thing. Check back shortly.
+One post a month. One idea at a time.
 
 ---
 
-## Coming up first
-A generative art piece built with Python — visualizing something 
-from the natural world that most people walk past every day without 
-noticing.
+## 2026
 
-Stay curious.
+### March
+
+**[[post-001|Your Times Tables Are Artists.]]**
+The ×2 times table draws a heart. The ×3 draws a kidney. Nobody told us. We just never looked.
+`mathematics · art · patterns`
+
+---
+
+_More coming. Check back next month._
+
+_— Keep noticing._
