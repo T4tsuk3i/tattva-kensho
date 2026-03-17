@@ -13,7 +13,7 @@ One post a month. One idea at a time.
 
 ### March
 
-**[[post-001|Your Times Tables Are Artists.]]**
+**[[post001|Your Times Tables Are Artists.]]**
 The ×2 times table draws a heart. The ×3 draws a kidney. Nobody told us. We just never looked.
 `mathematics · art · patterns`
 
